@@ -1,0 +1,24 @@
+{
+  "name": "image-table-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chrome": "^0.0.289",
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^22.10.5",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
